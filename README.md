@@ -14,20 +14,6 @@
 
 ---
 
-### 🔥 Meus Status
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateushellmann&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateushellmann&theme=dracula&bg_color=151515&radius=10&area=false&hide_border=false&hide_title=true&line=FB8C00&point=FA8A33" height="200" alt="activity-graph graph"  />
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusHellmann/MateusHellmann/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusHellmann/MateusHellmann/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MateusHellmann/MateusHellmann/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ### 🚀 Tecnologias que uso
 
 #### 💻 Linguagens
@@ -84,6 +70,15 @@
   <a href="https://www.linkedin.com/in/mateushellmann/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+---
+
+### 🔥 Meus Status
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mateushellmann&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateushellmann&theme=dracula&bg_color=151515&radius=10&area=false&hide_border=false&hide_title=true&line=FB8C00&point=FA8A33" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
