@@ -2,21 +2,23 @@
 
 ---
 
-<h3 align="center">Software Developer | 19 anos | Estudante entusiasta da tecnologia</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FC7C19&width=450&lines=Seja+bem-vindo+ao+meu+perfil!;Apaixonado+por+programação+e+games!;Estudando+para+ser+dev+fullstack."/>
-</p>
+<h3 align="center">Software Developer | 19 years old | Technology Enthusiast</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mateushellmann.mateushellmann&right_color=orange&left_text=Visitantes"  />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&color=FC7C19&width=550&lines=Welcome+to+my+profile!;Passionate+about+programming+and+games!;Studying+to+become+a+Fullstack+Developer."/>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mateushellmann.mateushellmann&right_color=orange&left_text=Visitors"  />
 </div>
 
 ---
 
-### 🚀 Tecnologias que uso
+### 🚀 Technologies I Use
 
-#### 💻 Linguagens
+#### 💻 Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -43,7 +45,7 @@
   
 </div>
 
-#### 🧰 Ferramentas
+#### 🧰 Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -55,7 +57,7 @@
   <img width="12" />
 </div>
 
-#### Outros
+#### Other
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
@@ -65,7 +67,7 @@
 
 ---
 
-### 🌐 Redes Sociais
+### 🌐 Social Media
 <div align="left">
   <a href="https://www.linkedin.com/in/mateushellmann/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -74,10 +76,10 @@
 
 ---
 
-### 🔥 Meus Status
+### 🔥 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateushellmann&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mateushellmann&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateushellmann&theme=dracula&bg_color=151515&radius=10&area=false&hide_border=false&hide_title=true&line=FB8C00&point=FA8A33" height="200" alt="activity-graph graph"  />
 </div>
 
